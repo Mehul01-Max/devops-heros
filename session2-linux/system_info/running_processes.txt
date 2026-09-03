@@ -1,0 +1,7 @@
+  PID TTY           TIME CMD
+ 4294 ttys000    0:00.34 -zsh
+ 4392 ttys000    0:00.43 ssh -i mehul1.pem ubuntu@13.126.8.63
+ 4567 ttys002    0:00.34 /bin/zsh -il
+ 5092 ttys003    0:00.07 /bin/zsh -il
+ 5936 ttys004    0:00.11 /bin/zsh -il
+ 6197 ttys004    0:00.01 sh homework.sh
