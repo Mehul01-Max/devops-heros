@@ -9,6 +9,10 @@ on:
     branches:
       - main
 
+defaults:
+  run:
+    working-directory: session-17-devsecops/demo
+
 jobs:
   # ========================================
   # STEP 1 — Run Unit Tests
