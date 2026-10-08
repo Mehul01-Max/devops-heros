@@ -47,21 +47,42 @@ terraform apply
 
 ## Screenshots
 
-### Docker services running
+### Docker Container Management
 
-![Docker containers running](images/01-1.png)
+![Docker Containers Running](images/02.png)
 
-### Kubernetes pods in the taskboard namespace
+### Automated Testing & API Validation
 
-![Taskboard pods running in Kubernetes](images/02.png)
+![Pytest Test Suite Progress](images/01-1.png)
 
-### Backend API test results
+![Pytest Test Summary & Warnings](images/01-2.png)
 
-![Pytest validation for API endpoints](images/10.png)
+### Kubernetes Workloads & Pod Deployment
 
-### TaskBoard application UI
+![Taskboard Pods Running in Kubernetes](images/10.png)
 
-![TaskBoard dashboard running in Kubernetes](images/16.png)
+### Terraform Infrastructure Provisioning
+
+#### Terraform Initialization
+![Terraform Init](images/08-1.png)
+
+#### Terraform Validation & Planning
+![Terraform Validate & Plan](images/08-2.png)
+
+#### Resource State Refreshing
+![Terraform Resource Planning](images/08-4.png)
+
+#### Terraform Apply Execution
+![Terraform Apply](images/08-5.png)
+
+#### Resource Creation & Node Group Deployment
+![Terraform Apply Confirmation & Creation Progress](images/08-6.png)
+
+### Monitoring & Web Application Interface
+
+![Grafana Dashboard](images/03.png)
+
+![TaskBoard Web Interface](images/16.png)
 
 ## Key Learnings
 
